@@ -2,7 +2,6 @@
 sudo pacman -S xorg xorg-server xorg-xinit feh p7zip curl  nano git lsd firefox  wpa_supplicant thunar npm -v --noconfirm 
 sudo pacman -S qtile kitty rofi picom wget neofetch -v --noconfirm
 sudo pacman -S make cmake code  -v --noconfirm
-wget https://raw.githubusercontent.com/vnmsnake-dev/dot/main/install.sh
 mkdir Desktop
 cd Desktop
 mkdir repos
